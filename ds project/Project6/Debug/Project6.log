@@ -1,0 +1,13 @@
+﻿  Minitexteditor.cpp
+C:\Users\aisha\OneDrive\Desktop\ds project\Project6\Minitexteditor.cpp(27,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aisha\OneDrive\Desktop\ds project\Project6\Minitexteditor.cpp(54,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aisha\OneDrive\Desktop\ds project\Project6\Minitexteditor.cpp(62,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aisha\OneDrive\Desktop\ds project\Project6\Minitexteditor.cpp(74,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aisha\OneDrive\Desktop\ds project\Project6\Minitexteditor.cpp(87,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aisha\OneDrive\Desktop\ds project\Project6\Minitexteditor.cpp(94,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aisha\OneDrive\Desktop\ds project\Project6\Minitexteditor.cpp(103,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aisha\OneDrive\Desktop\ds project\Project6\Minitexteditor.cpp(110,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aisha\OneDrive\Desktop\ds project\Project6\Minitexteditor.cpp(140,2): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  Generating Code...
+  Project6.vcxproj -> C:\Users\aisha\OneDrive\Desktop\ds project\Debug\Project6.exe
